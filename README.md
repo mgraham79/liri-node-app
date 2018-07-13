@@ -10,5 +10,6 @@ This app is like iPhone's SIRI. However, while SIRI is a Speech Interpretation a
 <br />"movie-this + <any movie>" - this will display the title of the movie, the year the movie came out, the IMDB rating, Rotton Tomatoes rating, the country the movie was produced, the language of the movie, the plot, and the actors in the movie. If no movie in inputted, it will default to "Mr. Nobody".
 <br />
 <br />"do-what-it-says" - this will default to "The Sign" in Spotify.
-  
-  
+<br />
+<br />
+<br />
