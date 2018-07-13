@@ -19,8 +19,13 @@
   "homepage": "https://github.com/mgraham79/liri-bot#readme",
   "dependencies": {
     "dotenv": "^6.0.0",
+    "keys": "^0.1.2",
+    "keys.js": "^1.0.2",
     "node-spotify-api": "^1.0.7",
+    "reqeust": "^2.81.1",
     "request": "^2.87.0",
+    "require": "^2.4.20",
+    "spotify": "^0.3.0",
     "twitter": "^1.7.1"
   }
 }
